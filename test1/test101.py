@@ -1,1 +1,3 @@
-print("안녕하세요. 김준호입니다.")
+print("소스코드 1")
+print("데이터베이스 연결")
+print("select")
